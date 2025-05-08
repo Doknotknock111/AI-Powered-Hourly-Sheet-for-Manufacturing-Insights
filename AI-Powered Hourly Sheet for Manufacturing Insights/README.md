@@ -42,17 +42,6 @@ An AI-enhanced system for tracking and analyzing manufacturing production data t
    ```
 3. Ensure you have the sample data file `hourly_sheet.csv` in your project directory or in an `attached_assets` subfolder
 
-### Configuration (Optional)
-
-Create a `.streamlit/config.toml` file with the following content for local development:
-
-```toml
-[server]
-headless = false
-address = "localhost"
-port = 8501
-```
-
 ## Running the Application
 
 1. Navigate to the project directory
@@ -60,7 +49,6 @@ port = 8501
    ```
    streamlit run app.py
    ```
-3. Access the web interface at http://localhost:8501 (or the port specified in your config)
 
 ## Data Structure
 
