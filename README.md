@@ -119,10 +119,5 @@ The application stores all data in a `manufacturing_data.csv` file, which is cre
 - **Empty Production Data**: Ensure you've either imported data or added records through the Data Entry form
 - **Prediction/Anomaly Detection Issues**: These features require enough historical data to work properly (at least 5 records)
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
 
 *Manufacturing Hourly Sheet Tracking System | AI-Enhanced Production Monitor*
